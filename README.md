@@ -1,4 +1,5 @@
-# Stat 135: Concepts of Statistics
+# Stat 135: Labs 102 and 105
+## Concepts of Statistics
 
 ## Lab Section Material
 
