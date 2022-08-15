@@ -94,6 +94,8 @@ rsconnect/
 
 *.Rmd
 
+week1/week1.Rmd
+
 header_template.tex
 
 
