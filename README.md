@@ -2,7 +2,7 @@
 
 **Concepts of Statistics**
 
-This repository contains lab section material for Andy's Stat 135 sections 102 and 105 for Fall 2022.
+Lab material for Andy's Stat 135 sections 102 and 105 for Fall 2022.
 
 Instructor: Eaman Jahani
 
