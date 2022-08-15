@@ -29,13 +29,11 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
 
 - Second year PhD student in Statistics
 
-- Research interests: applied statistics in computional bio, precision medicine and drug discovery
-
 - Email: aashen@berkeley.edu
 
 - You may email me with any administrative/private questions or concerns (please include **Stat 135 102/105** in the subject). 
 
-- Any questions about course content (lectures, homework, exams) should be posted **on Ed** (join code XYZ)
+- Any questions about course content (lectures, homework, exams) should be posted **on Piazza** (join code XYZ)
 
 
 ## My Lab Sections
