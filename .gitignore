@@ -94,7 +94,7 @@ rsconnect/
 
 *.Rmd
 
-week1/week1.Rmd
+# week1/week1.Rmd
 week2/
 week3/
 week4/
