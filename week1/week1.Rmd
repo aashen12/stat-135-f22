@@ -15,7 +15,7 @@ output:
     colortheme: "beaver"
     includes:
       in_header: 
-        - ../header_template.tex
+        - ../../header_template.tex
     slide_level: 2
 classoption: "aspectratio=169"
 ---
