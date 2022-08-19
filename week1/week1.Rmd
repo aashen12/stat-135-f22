@@ -723,6 +723,8 @@ https://www.rstudio.com/resources/cheatsheets/
 
 See R script!
 
+# A few tools for HW1
+
 ## Expected Value
 
 The **expectation of a discrete random variable** $X$ with probability mass function ($P(X=x)$) is:
