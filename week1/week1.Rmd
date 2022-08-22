@@ -38,13 +38,11 @@ knitr::opts_chunk$set(echo = TRUE,
 
 - Email: [aashen\@berkeley.edu](mailto:aashen@berkeley.edu){.email}
 
-- Class Email: [stat135-staff\@lists.berkeley.edu](mailto:stat135-staff@lists.berkeley.edu){.email}
-
 -   You may email me with any administrative/private questions or concerns (please include **Stat 135 102/105** in the subject).
 
 -   Course announcements will be sent to your email via bCourses (Canvas). Please check your emails regularly for such announcements.
 
--   Any questions about course content (lectures, homework, exams) should be posted **on Piazza** (join code XYZ)
+-   Any questions about course content (lectures, homework, exams) should be posted **on Ed** (link on bCourses)
 
 ## Lab Sections
 
@@ -54,14 +52,18 @@ knitr::opts_chunk$set(echo = TRUE,
 
 To get credit for in-class quizzes, you must attend the section you are registered for.
 
+## Wait-list
+
+If you are on the wait list and would like to take the course, please check to see if other sections have open seats. Currently the wait list for Lab 105 is empty. I am not able to provide permission codes.
+
 
 ## Office Hours
 
--   Mondays: 1:00 - 2:00 PM
+-   Monday, Friday: 1:00 - 2:00 PM
 
--   Thursdays: 10:30 - 11:30 AM
+-   Office hours location TBD (but somewhere in Evans 4th floor)
 
--   All office hours will be in **Evans Hall 345**
+- Start next Monday
 
 - \textcolor{red}{These are still subject to change!}
 
